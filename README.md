@@ -26,7 +26,7 @@ Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&theme=dracula&hide=stars,issues,contribs)\
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&theme=dracula&hide=stars,contribs)\
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blchelle&layout=compact&theme=dracula)](https://github.com/blchelle/github-readme-stats)
 
