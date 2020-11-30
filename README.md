@@ -1,8 +1,8 @@
 Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
 
 * Senior Software Engineering Student at the University of Alberta 🐻
-* Technical Lead at the University of Alberta's Google DSC 👨‍💻
-* I'm currently looking for an 8-month internship Starting in May 2020 ⚒
+* Technology Lead at the University of Alberta's Google DSC 👨‍💻
+* I'm currently looking for a 4 or 8-month internship/co-op Starting in May 2020 🏢
 
 ### Links to My Portfolio Website & LinkedIn
 [<img align="left" alt="Website" width="32px" src="https://user-images.githubusercontent.com/39068407/98451595-7a472200-2104-11eb-8b67-aa7a8267555a.png" />](https://brockchelle.com)
