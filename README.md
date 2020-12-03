@@ -33,8 +33,9 @@ Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
 
 **Project:** [Boromi](https://github.com/blchelle/boromi), An Android book exchanging application that allows users to request, borrow, and lend books with other users of the app.
 
-[<img align="left" alt="Android" width="32px" src="https://user-images.githubusercontent.com/39068407/98450776-d148f900-20fc-11eb-99d5-8de9198f9605.png" />](https://developer.android.com/)
 [<img align="left" alt="Java" width="32px" src="https://user-images.githubusercontent.com/39068407/98450654-92ff0a00-20fb-11eb-92b6-62c35e54f35d.png" />](https://www.java.com/en/download/)
+[<img align="left" alt="Android" width="32px" src="https://user-images.githubusercontent.com/39068407/98450776-d148f900-20fc-11eb-99d5-8de9198f9605.png" />](https://developer.android.com/)
+[<img align="left" alt="Firebase" width="32px" src="https://user-images.githubusercontent.com/39068407/98451350-fbe98080-2101-11eb-8638-29a1974543ed.png" />](https://firebase.google.com/)
 </br>
 </br>
 
