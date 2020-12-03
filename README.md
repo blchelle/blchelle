@@ -38,7 +38,7 @@ Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
 </br>
 </br>
 
-**Projects:** [Stack Overflow Clone CLI](https://github.com/blchelle/stack-overflow-clone-cli)/[Reddit Clone CLI](https://github.com/blchelle/reddit-clone-cli) These projects are command-line intefaces for applications very similar to stack-overflow/reddit. The primary difference between these two projects is Stack Overflow Clone CLI uses a SQLite database and Reddit Clone CLI uses a MongoDB Database
+**Projects:** [Stack Overflow Clone CLI](https://github.com/blchelle/stack-overflow-clone-cli)/[Reddit Clone CLI](https://github.com/blchelle/reddit-clone-cli), These projects are command-line intefaces for applications very similar to stack-overflow/reddit. The primary difference between these two projects is Stack Overflow Clone CLI uses a SQLite database and Reddit Clone CLI uses a MongoDB Database.
 
 [<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/39068407/98450692-f6893780-20fb-11eb-95ec-26ea18adc514.png" />](https://www.python.org/)
 [<img align="left" alt="SQLite" width="32px" src="https://user-images.githubusercontent.com/39068407/98450736-626ba000-20fc-11eb-8fd8-961de29692f2.png" />](https://www.sqlite.org/index.html)
@@ -53,7 +53,7 @@ Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
 </br>
 
 #### What I've Developed With in Past Internships
-**Internship/Co-op Position:** [Willowglen Systems](https://willowglensystems.com), I have professional experience as a software developer working on mission-critical SCADA systems for the Metro-Rail Industry. More specifically, I worked on [PROXICOM](https://willowglensystems.com/market-solutions/transportation/proxicom/), a Metro-Rail track worker safety system that will be used to save countless lives.
+**Internship/Co-op Position:** [Willowglen Systems](https://willowglensystems.com), I have professional experience as a software developer working on mission-critical SCADA systems for the Metro-Rail Industry. More specifically, I worked on [PROXICOM](https://willowglensystems.com/market-solutions/transportation/proxicom/), a Metro-Rail track worker safety system that will be used to save countless lives. I also had the chance to work on [SCADACOM](https://willowglensystems.com/market-solutions/transportation/scadacom/) which is one of the companies flagship products for integrated control systems.
 
 [<img align="left" alt="C++" width="32px" src="https://user-images.githubusercontent.com/39068407/98450891-de1a1c80-20fd-11eb-9903-00dbdee99dc7.png" />](https://www.cplusplus.com/)
 [<img align="left" alt="Javascript" width="32px" src="https://user-images.githubusercontent.com/39068407/98450957-9942b580-20fe-11eb-9387-823c8641cf4f.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
