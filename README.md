@@ -11,7 +11,7 @@ Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
 </br>
 
 #### What I'm Developing With in Current Passion Projects
-**Current Project:** [CollaboGreat](https://github.com/blchelle/collabogreat), A team collaboration web application designed to make collaborative work easier in remote world 
+**Current Project:** [CollaboGreat](https://github.com/blchelle/collabogreat), A team collaboration web application designed to make collaborative work easier in a remote world 
 
 [<img align="left" alt="Typescript" width="32px" src="https://user-images.githubusercontent.com/39068407/98451052-8a103780-20ff-11eb-8183-585332bd7b88.png" />](https://www.typescriptlang.org/)
 [<img align="left" alt="MongoDB" width="32px" src="https://user-images.githubusercontent.com/39068407/98451105-0571e900-2100-11eb-9158-1507d020bdb9.png" />](https://www.mongodb.com//)
