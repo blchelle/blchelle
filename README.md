@@ -1,4 +1,4 @@
-Hi there 👋, I'm Brock. I am a Software Developer from Canada 🍁
+Hi there 👋, I'm a Software Developer from Canada 🍁
 
 * Senior Software Engineering Student at the University of Alberta 🐻
 * Technology Lead at the University of Alberta's Google DSC 👨‍💻
