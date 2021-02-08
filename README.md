@@ -31,28 +31,6 @@ Hi there 👋, I'm a Software Developer from Canada 🍁
 </br>
 </br>
 
-**Project:** [Boromi](https://github.com/blchelle/boromi), An Android book exchanging application that allows users to request, borrow, and lend books with other users of the app.
-
-[<img align="left" alt="Java" width="32px" src="https://user-images.githubusercontent.com/39068407/98450654-92ff0a00-20fb-11eb-92b6-62c35e54f35d.png" />](https://www.java.com/en/download/)
-[<img align="left" alt="Android" width="32px" src="https://user-images.githubusercontent.com/39068407/98450776-d148f900-20fc-11eb-99d5-8de9198f9605.png" />](https://developer.android.com/)
-[<img align="left" alt="Firebase" width="32px" src="https://user-images.githubusercontent.com/39068407/98451350-fbe98080-2101-11eb-8638-29a1974543ed.png" />](https://firebase.google.com/)
-</br>
-</br>
-
-**Projects:** [Stack Overflow Clone CLI](https://github.com/blchelle/stack-overflow-clone-cli)/[Reddit Clone CLI](https://github.com/blchelle/reddit-clone-cli), These projects are command-line intefaces for applications very similar to stack-overflow/reddit. The primary difference between these two projects is Stack Overflow Clone CLI uses a SQLite database and Reddit Clone CLI uses a MongoDB Database.
-
-[<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/39068407/98450692-f6893780-20fb-11eb-95ec-26ea18adc514.png" />](https://www.python.org/)
-[<img align="left" alt="SQLite" width="32px" src="https://user-images.githubusercontent.com/39068407/98450736-626ba000-20fc-11eb-8fd8-961de29692f2.png" />](https://www.sqlite.org/index.html)
-[<img align="left" alt="MongoDB" width="32px" src="https://user-images.githubusercontent.com/39068407/98451105-0571e900-2100-11eb-9158-1507d020bdb9.png" />](https://www.mongodb.com//)
-</br>
-</br>
-
-**Projects:** Unix Shell, Multithreaded Producer-Consumer Application, Client-Server Message Passing: These three projects gave me a thorough experience in systems programming with C. Unfortunately, I am unable to publish my repositories for these applications. 
-
-[<img align="left" alt="C" width="32px" src="https://user-images.githubusercontent.com/39068407/98450707-1a4c7d80-20fc-11eb-88c6-66707ae1929e.png" />](https://www.programiz.com/c-programming)
-</br>
-</br>
-
 #### What I've Developed With in Past Internships
 **Internship/Co-op Position:** [Willowglen Systems](https://willowglensystems.com), I have professional experience as a software developer working on mission-critical SCADA systems for the Metro-Rail Industry. More specifically, I worked on [PROXICOM](https://willowglensystems.com/market-solutions/transportation/proxicom/), a Metro-Rail track worker safety system that will be used to save countless lives. I also had the chance to work on [SCADACOM](https://willowglensystems.com/market-solutions/transportation/scadacom/) which is one of the companies flagship products for integrated control systems.
 
@@ -65,5 +43,7 @@ Hi there 👋, I'm a Software Developer from Canada 🍁
 </br>
 
 ![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)\
-<br />
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blchelle&layout=compact)](https://github.com/blchelle/github-readme-stats)
+<br/>
+[![Brock's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blchelle)](https://github.com/anuraghazra/github-readme-stats)
