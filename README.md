@@ -1,8 +1,4 @@
-Hi there 👋, I'm a Software Developer from Canada 🍁
-
-* Senior Software Engineering Student at the University of Alberta 🐻
-* Technology Lead at the University of Alberta's Google DSC 👨‍💻
-* I'm currently looking for a 4 or 8-month internship/co-op Starting in May 2020 🏢
+Hi there, I'm a senior software engineering student from the University of Alberta. Currently, I'm looking for a 4 or 8-month internship/co-op Starting in May 2021.
 
 ### Links to My Portfolio Website & LinkedIn
 [<img align="left" alt="Website" width="32px" src="https://user-images.githubusercontent.com/39068407/98451595-7a472200-2104-11eb-8b67-aa7a8267555a.png" />](https://brockchelle.com)
