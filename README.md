@@ -45,5 +45,3 @@ Hi there 👋, I'm a Software Developer from Canada 🍁
 ![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)\
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blchelle&layout=compact)](https://github.com/blchelle/github-readme-stats)
-<br/>
-[![Brock's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blchelle)](https://github.com/anuraghazra/github-readme-stats)
