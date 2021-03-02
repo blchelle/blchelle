@@ -20,7 +20,7 @@ Hi there, I'm a senior software engineering student from the University of Alber
 
 ![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)\
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blchelle&layout=compact&langs_count=4)](https://github.com/blchelle/github-readme-stats)
+### Weekly Stats
 
 <!--START_SECTION:waka-->
 ```text
