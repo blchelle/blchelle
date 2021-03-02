@@ -15,6 +15,8 @@ Hi there, I'm a senior software engineering student from the University of Alber
 [<img align="left" alt="React" width="32px" src="https://user-images.githubusercontent.com/39068407/98451107-086cd980-2100-11eb-8835-8a9f30601688.png" />](https://reactjs.org/)
 [<img align="left" alt="Redux" width="32px" src="https://user-images.githubusercontent.com/39068407/98451474-fd677880-2102-11eb-8696-59204f327612.png" />](https://redux.js.org/)
 [<img align="left" alt="NodeJS" width="32px" src="https://user-images.githubusercontent.com/39068407/98451106-07d44300-2100-11eb-9fc0-efc24873aff8.png" />](https://nodejs.org/en/)
+</br>
+</br>
 
 ![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)\
 
