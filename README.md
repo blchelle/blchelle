@@ -26,10 +26,10 @@ Hi there, I'm a senior software engineering student from the University of Alber
 ```text
 Week: 22 February, 2021 - 01 March, 2021
 
-Rust         11 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.53 % 
-Go           5 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 % 
-TypeScript   4 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Rust         10 hrs 56 mins  ███████████░░░░░░░░░░░░░░   44.36 % 
+Go           10 hrs 23 mins  ██████████▓░░░░░░░░░░░░░░   42.12 % 
+TypeScript   2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
