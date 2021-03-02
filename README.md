@@ -24,6 +24,8 @@ Hi there, I'm a senior software engineering student from the University of Alber
 
 <!--START_SECTION:waka-->
 ```text
+Week: 22 February, 2021 - 01 March, 2021
+
 Rust         11 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.53 % 
 Go           5 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 % 
 TypeScript   4 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
