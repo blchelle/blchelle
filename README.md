@@ -23,4 +23,11 @@ Hi there, I'm a senior software engineering student from the University of Alber
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blchelle&layout=compact&langs_count=4)](https://github.com/blchelle/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Rust         11 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.53 % 
+Go           5 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 % 
+TypeScript   4 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+```
 <!--END_SECTION:waka-->
