@@ -18,7 +18,7 @@ Hi there, I'm a senior software engineering student from the University of Alber
 </br>
 </br>
 
-![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)\
+![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)
 
 ### Weekly Stats
 
