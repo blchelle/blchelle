@@ -24,12 +24,12 @@ Hi there, I'm a senior software engineering student from the University of Alber
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 March, 2021 - 15 March, 2021
+Week: 09 March, 2021 - 16 March, 2021
 
-TypeScript   9 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.39 % 
-Rust         8 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.13 % 
-Python       6 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
-Go           2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Markdown     1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+TypeScript   9 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   35.57 % 
+Rust         4 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Python       4 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Go           4 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Markdown     1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 <!--END_SECTION:waka-->
