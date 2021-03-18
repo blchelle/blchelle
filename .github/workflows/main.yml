@@ -3,7 +3,7 @@ name: WakaTime status update
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '34 14 * * *'
+    - cron: '47 13 * * *'
 
 jobs:
   update-readme:
@@ -22,4 +22,4 @@ jobs:
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "master"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Updated WakaTime Graph :alien:"
+          COMMIT_MSG: "Updated WakaTime Graph :dog:"
