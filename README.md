@@ -22,14 +22,4 @@ Hi there, I'm a senior software engineering student from the University of Alber
 
 ### Weekly Stats
 
-<!--START_SECTION:waka-->
-```text
-Week: 10 March, 2021 - 17 March, 2021
-
-Go           5 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.41 % 
-Rust         4 hrs 53 mins   █████████▒░░░░░░░░░░░░░░░   37.40 % 
-Python       1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-TypeScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Markdown     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/blchelle/blchelle/blob/master/images/stat.svg" alt="Brock WakaTime Activity" align=center/>
