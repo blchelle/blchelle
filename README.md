@@ -19,7 +19,3 @@ Hi there, I'm a senior software engineering student from the University of Alber
 </br>
 
 ![Brock's github stats](https://github-readme-stats.vercel.app/api?username=blchelle&show_icons=true&hide=stars,contribs)
-
-### Weekly Stats
-
-<img src="https://github.com/blchelle/blchelle/blob/master/images/stat.svg" alt="Brock WakaTime Activity" align=center/>
